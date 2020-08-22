@@ -1,2 +1,2 @@
-# car-race-hiha
-JAVASCRIPT
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
